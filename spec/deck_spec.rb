@@ -1,4 +1,5 @@
 require 'rspec'
+require 'deck'
 
 describe 'Deck' do
   describe '.all' do
